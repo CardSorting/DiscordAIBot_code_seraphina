@@ -1,0 +1,12 @@
+{"level":30,"time":1704263828804,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Initializing SQLite database at /home/runner/SeraphinaBot/sqlite/credits.db"}
+{"level":30,"time":1704263828808,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1704263828809,"pid":3235,"hostname":"dd45e6ce30bb","msg":"CreditManager instance created."}
+{"level":30,"time":1704263828834,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Initializing SQLite database at /home/runner/SeraphinaBot/sqlite/credits.db"}
+{"level":30,"time":1704263828834,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1704263828834,"pid":3235,"hostname":"dd45e6ce30bb","msg":"CreditManager instance created."}
+{"level":30,"time":1704263828837,"pid":3235,"hostname":"dd45e6ce30bb","msg":"CreditHandler initialized"}
+{"level":30,"time":1704264119429,"pid":3235,"hostname":"dd45e6ce30bb","msg":"User 530285329047879681 started the process of checking credits."}
+{"level":20,"time":1704264119431,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Interaction object: {\"type\":2,\"id\":\"1191994853811302552\",\"applicationId\":\"1185164123231748116\",\"channelId\":\"1185271051966480446\",\"guildId\":\"1114283086528659456\",\"user\":\"530285329047879681\",\"member\":\"530285329047879681\",\"version\":1,\"appPermissions\":\"410116628676433\",\"memberPermissions\":\"562949953421311\",\"locale\":\"en-US\",\"guildLocale\":\"en-US\",\"commandId\":\"1185646938675224638\",\"commandName\":\"checkcredits\",\"commandType\":1,\"commandGuildId\":null,\"deferred\":false,\"replied\":false,\"ephemeral\":null,\"webhook\":{\"id\":\"1185164123231748116\"},\"options\":{}}"}
+{"level":30,"time":1704264119431,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Fetching credits for user 530285329047879681"}
+{"level":30,"time":1704264119432,"pid":3235,"hostname":"dd45e6ce30bb","msg":"Retrieved credits for user 530285329047879681:"}
+{"level":30,"time":1704264119780,"pid":3235,"hostname":"dd45e6ce30bb","msg":"User 530285329047879681 checked their credits. They now have 165 credits."}
